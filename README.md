@@ -1,4 +1,5 @@
-# Conjuntos de dados usados no livro Introdução à Mineração de Dados com aplicações em R
+# Introdução à Mineração de Dados com aplicações em R
+## Conjuntos de dados usados no livro 
 
 Neste repositório está disponível os conjuntos de dados utilizados no <i>Livro Introdução à Mineração de Dados com aplicações em R</i>
 
