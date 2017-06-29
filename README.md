@@ -1,7 +1,7 @@
 # Introdução à Mineração de Dados com aplicações em R
 ## Conjuntos de dados usados no livro 
 
-Neste repositório está disponível os conjuntos de dados utilizados no <i>Livro Introdução à Mineração de Dados com aplicações em R</i>
+Neste repositório está disponível os conjuntos de dados utilizados no Livro <i>Introdução à Mineração de Dados com aplicações em R</i>
 
 L.A.Silva, S.M.Peres e C. Boscarioli. Introdução à Mineração de Dados com aplicações em R. Elsevier, Rio de Janeiro, 2016.
 
