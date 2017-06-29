@@ -1,0 +1,15 @@
+PREVIS«O;TEMPERATURA;HUMIDADE;VENTO;VENDER
+chuva;frio;normal;sim;parmegiana
+chuva;moderado;alta;sim;parmegiana
+sol;quente;alta;n∆o;parmegiana
+sol;quente;alta;sim;parmegiana
+sol;moderado;alta;n∆o;parmegiana
+nublado;frio;normal;sim;feijoada
+nublado;quente;alta;n∆o;feijoada
+nublado;quente;normal;n∆o;feijoada
+nublado;moderado;alta;sim;feijoada
+chuva;frio;normal;n∆o;feijoada
+chuva;moderado;alta;n∆o;feijoada
+chuva;moderado;normal;n∆o;feijoada
+sol;frio;normal;n∆o;feijoada
+sol;moderado;normal;sim;feijoada

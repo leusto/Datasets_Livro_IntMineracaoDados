@@ -1,0 +1,8 @@
+L1: "...O teu amor pode estar...Do seu lado... "
+L2: "...Eu quero amar você, e quando amanhecer eu quero acordar do seu lado."
+L3: "Você abusou, tirou partido de mim, abusou"
+L4: "Meu partido é um coração partido"
+L5: "O nosso amor a gente inventa ... pra se distrair"
+L6: "Grande pátria desimportante... Em nenhum instante ... Eu vou te trair"
+L7:"Eu sou ... Eu sou a pátria que lhe esqueceu"
+L8:"E o que dizem que foi tudo por causa de um coração partido"

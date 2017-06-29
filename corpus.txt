@@ -1,0 +1,3 @@
+doc1	Ambiente agradável e tranquilo. Comida e música com qualidade. Adoramos o Filé à Parmegiana.
+doc2	O Filé à Parmegiana da cidade. Ambiente agradável e qualidade no atendimento.
+doc3	O Filé à Parmegiana com fritas é uma delícia.
